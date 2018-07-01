@@ -1,1 +1,2 @@
-avconv (should include lame and flac)
+lame
+flac
